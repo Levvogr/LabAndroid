@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="baseIndent">8dp</dimen>
+    <dimen name="sizeTextView">20sp</dimen>
+    <dimen name="sizeEditText">16sp</dimen>
+    <dimen name="sizeTextInputButton">14sp</dimen>
+</resources>

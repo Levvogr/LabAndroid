@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</LinearLayout>
+-->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:orderInCategory="100"
+        android:id="@+id/day_settings"
+        android:title="@string/day_theme"
+        app:showAsAction="never" />
+    <item
+        android:orderInCategory="100"
+        android:id="@+id/night_settings"
+        android:title="@string/night_theme"
+        app:showAsAction="never"/>
+</menu>
